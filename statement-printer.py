@@ -11,6 +11,7 @@ while myit == 'y':
         mystring
     else:
         print('you have chosen not to do it again\n')
+        print('thank you for printing your statement(s).')
         break
 while myIT == 'y':
     myInt = input('Please enter a number to print.')
@@ -20,4 +21,5 @@ while myIT == 'y':
         myInt
     else:
         print('you have chosen not to do it again')
+        print('thank you for printing your number(s).')
         break
